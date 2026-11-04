@@ -1,19 +1,25 @@
 {
   "title": "Developing an Incident-Ready Digital Forensic Readiness Plan for a Retail SME",
-  "seq": 16,
+  "slug": "digital-forensic-readiness-plan",
   "kind": "forensics",
   "mode": "SyntheticBaseline",
-  "generatedUtc": "2026-11-04T17:32:09.963003+00:00",
+  "generatedUtc": "2026-11-04T17:56:44.052338+00:00",
   "author": "Md Shohrab Hossen Niaz",
-  "notes": "Baseline evidence model for portfolio reproducibility. Live lab evidence may be added later without renaming the repo.",
+  "publicReadiness": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Showcase-ready design pack with labelled synthetic baseline"
+    ]
+  },
   "artefacts": [
     "readiness checklist",
     "collection SOP",
-    "lab validation notes"
+    "chain-of-custody notes"
   ],
   "scoreModel": {
-    "baselineMaturity": 42,
-    "targetMaturity": 70,
-    "unit": "0-100 design-coverage index"
+    "baseline": 42,
+    "target": 75,
+    "unit": "design-coverage index"
   }
 }

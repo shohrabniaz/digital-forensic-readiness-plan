@@ -1,10 +1,17 @@
 {
-  "seq": 16,
   "title": "Developing an Incident-Ready Digital Forensic Readiness Plan for a Retail SME",
-  "slug": "developing-an-incident-ready-digital-forensic-readiness",
+  "old_slug": "developing-an-incident-ready-digital-forensic-readiness",
+  "slug": "digital-forensic-readiness-plan",
   "folder": "Developing_An_Incident_Ready_Digital_Forensic_Readiness",
   "kind": "forensics",
-  "body_words": 245,
+  "body_words": 319,
+  "source": "SCI700",
   "project_id": "Project 7",
-  "source": "SCI700"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Showcase-ready design pack with labelled synthetic baseline"
+    ]
+  }
 }
